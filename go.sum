@@ -1,0 +1,6 @@
+github.com/ipv6rslimited/lrucache v1.0.0 h1:Ns9vpipQLPd3E9MHIjkNa4RFoo4/v/Jtr2s5SkWJVnE=
+github.com/ipv6rslimited/lrucache v1.0.0/go.mod h1:Xt4GFTJyEZ19s9uPKevgwTtuAW2vMfLyulX/AEDyKe4=
+github.com/ipv6rslimited/peter v1.0.4 h1:36MoZUIUFC0MMIeQwq8nK7BbK53tOf8+t0ALnm8hpUE=
+github.com/ipv6rslimited/peter v1.0.4/go.mod h1:Oap/pZXH8U9gJJY117QYXSuKjH5i8ENDWXL2W6VbzGo=
+golang.org/x/crypto v0.23.0 h1:dIJU/v2J8Mdglj/8rJ6UUOM3Zc9zLZxVZwwxMooUSAI=
+golang.org/x/crypto v0.23.0/go.mod h1:CKFgDieR+mRhux2Lsu27y0fO304Db0wZe70UKqHu0v8=
