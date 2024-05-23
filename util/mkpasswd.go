@@ -24,7 +24,7 @@ import (
 func main() {
   createFlag := flag.Bool("create", false, "Create a user and password")
   editFlag := flag.Bool("edit", false, "Edit an existing user's password")
-  passwdFlag := flag.String("passwd", "/etc/shrimp/passwords", "Path to passwords file")
+  passwdFlag := flag.String("passwd", "passwd", "Path to passwords file")
 
   flag.Parse()
 
