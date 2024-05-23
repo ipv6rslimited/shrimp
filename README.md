@@ -1,3 +1,5 @@
+![shrimp logo](https://raw.githubusercontent.com/ipv6rslimited/shrimp/main/shrimp.png)
+
 # shrimp
 
 **shrimp** is a simple forward proxy written in GoLang, that does not decrypt traffic, making it secure and easy to configure. It features a locked-down mode which limits it to a single network interface and IPv6 stack.
