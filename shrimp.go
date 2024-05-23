@@ -44,7 +44,7 @@ type Config struct {
   KeyFile               string   `json:"keyFile"`
   DNSCacheCapacity      int      `json:"dnsCacheCapacity"`
   DNSTTL                int      `json:"dnsTTL"`
-  IPv4Translator         string   `json:"ipv4Translator"`
+  IPv4Translator        string   `json:"ipv4Translator"`
   AllowedHosts        []string   `json:"allowedHosts"`
   DisallowedHosts     []string   `json:"disallowedHosts"`
 }
