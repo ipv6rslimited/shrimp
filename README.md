@@ -53,7 +53,7 @@ Don't let shrimp's size fool you. In Brazilian Jiu Jitsu, when you're on your ba
   "keyFile": "key.pem",
   "dnsCacheCapacity": 100,
   "dnsTTL": 300,
-  "ip4Translator": "visibleip.com",
+  "ipv4Translator": "visibleip.com",
   "allowedHosts": [".*"],
   "disallowedHosts": [
     "^localhost$",
@@ -65,7 +65,7 @@ Don't let shrimp's size fool you. In Brazilian Jiu Jitsu, when you're on your ba
 }
 ```
 
-You can use `visibleip.com` as your ip4Translator as it is run by IPv6rs and is anycasted across 16 different locations. It's nothing special - just running [legacydns](https://github.com/ipv6rslimited/legacydns) which helps to create
+You can use `visibleip.com` as your ipv4Translator as it is run by IPv6rs and is anycasted across 16 different locations. It's nothing special - just running [legacydns](https://github.com/ipv6rslimited/legacydns) which helps to create
 domain names for IP addresses when using IPv6 + NAT64 + dns64.
 
 ## Lockdown Mode
