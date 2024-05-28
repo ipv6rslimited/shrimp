@@ -4,6 +4,10 @@
 
 **shrimp** is a simple forward proxy written in GoLang, that does not decrypt traffic, making it secure and easy to configure. It features a locked-down mode which limits it to a single network interface and IPv6 stack.
 
+[![See Video](https://img.youtube.com/vi/iLA5oOOlK6o/0.jpg)](https://www.youtube.com/watch?v=iLA5oOOlK6o)
+
+Watch a video.
+
 ## Backstory
 
 We were packaging an appliance with one of the most popular forward proxy solutions out there, Squid, and things were going smoothly. However, we ran into an obstacle that could not be resolved so easily - disabling dns resolution.
